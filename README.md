@@ -4,24 +4,21 @@ Please follow the following steps to run the under-mentioned applications
 
 #### User App
 
-Please run the following commands in order to start the react-app
+Please run the following commands in order to start the react-app <br/>
 
-## 1.) Move to the user directory.
-
-## 2.) run yarn in the user directory.
-
-## 3.) run yarn start in the user directory. (prompt to yes if given a port busy)
-
-4.) your react app is ready to be used on your device.
+1.) Move to the user directory. <br/>
+2.) run yarn in the user directory. <br/>
+3.) run yarn start in the user directory. (prompt to yes if given a port busy) <br/>
+4.) your react app is ready to be used on your device. <br/>
 
 #### Conductor App
 
-Please run the following commands in order to start the react-app
+Please run the following commands in order to start the react-app<br/>
 
-1.) Move to the conductor directory.
-2.) run yarn in the conductor directory.
-3.) run yarn start in the conductor directory. (prompt to yes if given a port busy)
-4.) your react app is ready to be used on your device.
+1.) Move to the conductor directory. <br/>
+2.) run yarn in the conductor directory. <br/>
+3.) run yarn start in the conductor directory. (prompt to yes if given a port busy) <br/>
+4.) your react app is ready to be used on your device. <br/>
 
 #### Admin app
 
